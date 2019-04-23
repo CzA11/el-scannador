@@ -1,9 +1,9 @@
 # el-scannador
 
 Simple port scanner. Currently working out some 
-syntax errors. ONLY USE ON SERVERS WITH PERMISSION.
+syntax errors.
 
-w3w3w3 - provided the sample server to scan. thanks man.
+w3w3w3 - provided the sample network to scan. thanks man.
 
 
 2/10/19 - Uploaded non-working copy. Trying to iron out syntax errors.
